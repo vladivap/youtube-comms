@@ -1,0 +1,6 @@
+.layout-content {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+	padding: 12px 48px 48px;
+}

@@ -1,0 +1,14 @@
+.header-container {
+	display: flex;
+	gap: 24px;
+	padding: 12px 36px;
+	border-bottom: 1px solid black;
+}
+
+.header-logo {
+	width: 48px;
+}
+
+.header-title {
+	line-height: 1;
+}

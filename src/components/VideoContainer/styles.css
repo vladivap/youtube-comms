@@ -1,0 +1,11 @@
+.video-container {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+	margin-bottom: 24px;
+}
+
+.video-title {
+	margin: 0;
+	text-align: left;
+}
