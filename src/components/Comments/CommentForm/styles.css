@@ -1,0 +1,16 @@
+.Form {
+        margin-right: 16px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: flex-start;
+}
+
+.form_BTN {
+ padding: 15px 15px;
+ color: white;
+ background-color: red;
+ font-weight: bold;
+ border: none;
+ margin-top: 3px;
+}
